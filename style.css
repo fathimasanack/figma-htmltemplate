@@ -1,0 +1,274 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+.search-bar{
+    width:372px;
+}
+.img{
+    width:32px;
+    height: 32px;
+}
+.im1{
+    margin-left: 50px;
+}
+.section1{
+    background-color: #211C24;
+    width:100%;
+    height: 550px;
+}
+
+.banner1{
+    width:100%;
+}
+.im2{
+    width:100%;
+}
+.content{
+    width:714px;
+    height:256px;
+    margin-top: 100px;
+}
+.section1 h6{
+width: 714px;
+height: 32px;
+color: #FFFFFF;
+font-weight:600;
+margin: 70px 50px 0px 0px;
+}
+.section1 h1{
+    width:714px;
+    height: 72px;
+    font-size: 96px;
+    font-weight: 300;
+    color: #EDEDED;
+}
+.section1 span{
+    font-weight: 600;
+}
+.section1 p{
+    margin-top: 40px;
+    color: #EDEDED;
+}
+.section1 button{
+    width:191px;
+    height: 56px;
+    border-radius: 10px;
+    color: #F6F6F6;
+    font-size: 600;
+    background-color:#211C24 ;
+    border-color: #F6F6F6;
+}
+.phn{
+    width:350px;
+    height: 550px;
+    margin-bottom: 400px;
+}
+.heading{
+    margin: 40px 100px 40px 0px;
+}
+#ic{
+    margin-left: 450px;
+}
+.cards1{
+    width:80%;
+    height: 128px;
+    margin: 0px 100px 0px 100px;
+}
+.c{
+    width:160px;
+    height: 128px;
+    /* margin-left: 80px; */
+    background-color: #EDEDED;
+    border-radius: 10px;
+
+}
+.cards1 img{
+    width:48px;
+    height: 48px;
+
+}
+/* .c img{
+    margin:40px 40px 40px 40px;
+} */
+
+
+.section4{
+    margin-top: 150px;
+}
+.new{
+    margin-left: 130px;
+    height: 32px;
+
+}
+.best{
+   
+    color:#8B8B8B ;
+}
+.section5{
+    width:78%;
+    margin: 0px 100px 0px 100px;
+
+}
+.cards2{
+    width:220px;
+    height: 432px;
+    border-radius: 10px;
+}
+.camera{
+    width:160px;
+    height:160px;
+    margin-top: 40%;
+}
+.hd2{
+    margin-bottom: 200px;
+}
+#head{
+    width:284px;
+    height: 432px;
+}
+.section6{
+    width:78%;
+    margin: 20px 100px 0px 100px;
+
+
+}
+.cards3{
+    width:268px;
+    height: 432px;
+    border-radius: 10px;
+}
+.ipad{
+    width:100%;
+    height: 640px;
+}
+#grp1{
+    width:360px;
+    height: 327px;
+}
+#grp2{
+    width:360px;
+    height: 366px;
+    background-color: #F9F9F9;
+}
+.pro{
+    background-color: #F9F9F9;
+
+}
+#grp3{
+    width:360px;
+    height: 360px;
+    background-color: #EAEAEA;
+}
+.mac{
+    background-color: #2C2C2C;
+}
+.samsung{
+    background-color: #EAEAEA;
+
+}
+#grp{
+    width:360px;
+    height: 376px;
+}
+.but{
+    width:188px;
+    height: 48px;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+}
+.shop{
+    width:191px;
+    height: 56px;
+    border-radius: 10px;
+    background-color: white;
+    font-weight: 500;
+}
+.color{
+    color: #909090;
+}
+.now{
+    border-color: #F9F9F9;
+    background-color: #2C2C2C;
+    color: white;
+}
+.book{
+    color: white;
+}
+.galaxy{
+    font-weight: 300;
+}
+.discount{
+    margin: 80px 0px  20px 170px ;
+}
+.cards3{
+    background-color: #F6F6F6;
+    border: none;
+}
+
+.section9{
+    background-image:url("./images/Banner\ 2\ \(2\).png") ;
+    height: 448px;
+    background-repeat: no-repeat;
+    background-size: 100vw;
+    margin-top: 40px;
+}
+.fame{
+    margin-top: 50px;
+}
+.fame h1{
+    font-size: 54px;
+    font-weight: 300;
+    color: white;
+}
+.fame span{
+    font-weight: 700;
+}
+.fame p{
+    color: #787878;
+}
+.fame button{
+    width:191px;
+    height: 56px;
+    background-color:#787878;
+    border-radius: 10px;
+    border-color: #EAEAEA;
+    margin-top: 40px;
+}
+
+footer{
+    background-color: black;
+    width:100%;
+    height: 400px;
+}
+.foot{
+    color:white;
+}
+.foot h6{
+    margin-top: 100px;
+    margin-left: 35px;
+}
+.foot img{
+    margin-top: 100px;
+}
+.service{
+    margin-top: 100px;
+    font-weight: 600;
+}
+li{
+    list-style: none;
+}
+.im1{
+    margin-bottom: 20px;
+}
+.foot p{
+    font-weight: 300;
+}
+.foot ul{
+    font-weight: 300;
+}
+
+
+
